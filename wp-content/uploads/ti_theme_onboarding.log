@@ -1,0 +1,87 @@
+[24/Sep/2020:23:12:22] (I): WordPress Instance Info:
+[24/Sep/2020:23:12:22] (I): Home URL : http://18.205.179.4
+[24/Sep/2020:23:12:22] (I): Site URL : http://18.205.179.4
+[24/Sep/2020:23:12:22] (I): WordPress Version : 5.5.1
+[24/Sep/2020:23:12:22] (I): Onboarding Version : 1.0.10
+[24/Sep/2020:23:12:22] (I): Multisite : No
+[24/Sep/2020:23:12:22] (I): Server Info : Apache
+[24/Sep/2020:23:12:22] (I): PHP Version : 7.4.10
+[24/Sep/2020:23:12:22] (I): HTTPS : No
+[24/Sep/2020:23:12:22] (I): PHP Max Execution Time : 120
+[24/Sep/2020:23:12:22] (I): PHP Max Input Vars : 1000
+[24/Sep/2020:23:12:22] (I): Max Upload Size : 41943040
+[24/Sep/2020:23:12:22] (I): Plugins:
+[24/Sep/2020:23:12:22] (I): [PLUGIN] Elementor : v3.0.10 (Elementor.com)
+[24/Sep/2020:23:12:22] (I): [PLUGIN] Templates Patterns Collection : v1.0.10 (ThemeIsle)
+[24/Sep/2020:23:12:22] (I): [PLUGIN] Orbit Fox Companion : v2.9.18 (Themeisle)
+[24/Sep/2020:23:12:22] (I): [PLUGIN] Colibri Page Builder : v1.0.182 (ExtendThemes)
+[24/Sep/2020:23:12:22] (P): Saving remote XML
+[24/Sep/2020:23:12:22] (S): Saved remote XML at path /opt/wordpress-5.5.1-1/apps/wordpress/htdocs/wp-content/uploads/themeisle-demo-import.xml.
+[24/Sep/2020:23:12:22] (P): Starting content import...
+[24/Sep/2020:23:12:22] (S): Import started.
+[24/Sep/2020:23:12:22] (S): Parsing XML file.
+[24/Sep/2020:23:12:22] (P): Starting parsing file:/opt/wordpress-5.5.1-1/apps/wordpress/htdocs/wp-content/uploads/themeisle-demo-import.xml
+[24/Sep/2020:23:12:22] (P): Using WXR_Parser_SimpleXML...
+[24/Sep/2020:23:12:22] (S): Parsed XML
+[24/Sep/2020:23:12:22] (P): Processing categories...
+[24/Sep/2020:23:12:22] (S): Processed categories.
+[24/Sep/2020:23:12:22] (P): Processing tags...
+[24/Sep/2020:23:12:22] (S): No tags to process.
+[24/Sep/2020:23:12:22] (P): Processing terms...
+[24/Sep/2020:23:12:22] (S): Processed terms.
+[24/Sep/2020:23:12:22] (P): Processing posts...
+[24/Sep/2020:23:12:22] (P): Processing single menu item ' '...
+[24/Sep/2020:23:12:22] (S): Media web-design-studio-02 already exists.
+[24/Sep/2020:23:12:22] (S): Media web-design-studio-03 already exists.
+[24/Sep/2020:23:12:22] (S): Media web-design-studio-04 already exists.
+[24/Sep/2020:23:12:22] (S): Media web-design-studio-05 already exists.
+[24/Sep/2020:23:12:22] (S): Media web-design-studio-06 already exists.
+[24/Sep/2020:23:12:22] (S): Media web-design-studio-07 already exists.
+[24/Sep/2020:23:12:22] (S): Media web-design-studio-08 already exists.
+[24/Sep/2020:23:12:22] (S): Media web-design-studio-09 already exists.
+[24/Sep/2020:23:12:22] (S): Media web-design-studio-10 already exists.
+[24/Sep/2020:23:12:22] (S): Media web-design-studio-11 already exists.
+[24/Sep/2020:23:12:22] (P): Processing single menu item ' '...
+[24/Sep/2020:23:12:22] (P): Processing single menu item ' '...
+[24/Sep/2020:23:12:22] (P): Processing single menu item ' '...
+[24/Sep/2020:23:12:22] (S): Media cropped-web-agency-logo.png already exists.
+[24/Sep/2020:23:12:22] (S): Media web-agency-logo-2 already exists.
+[24/Sep/2020:23:12:22] (S): Media cropped-web-agency-logo-2.png already exists.
+[24/Sep/2020:23:12:22] (S): Media web-agency-icon already exists.
+[24/Sep/2020:23:12:22] (S): Media cropped-web-agency-icon.png already exists.
+[24/Sep/2020:23:12:22] (S): Media web-design-studio-01.jpg already exists.
+[24/Sep/2020:23:12:22] (S): Page News already exists.
+[24/Sep/2020:23:12:22] (S): Page Home already exists.
+[24/Sep/2020:23:12:22] (P): Filtering elementor meta...
+[24/Sep/2020:23:12:22] (S): Filtered elementor meta.
+[24/Sep/2020:23:12:22] (S): Page About Us already exists.
+[24/Sep/2020:23:12:22] (P): Filtering elementor meta...
+[24/Sep/2020:23:12:22] (S): Filtered elementor meta.
+[24/Sep/2020:23:12:22] (S): Page Portfolio already exists.
+[24/Sep/2020:23:12:22] (P): Filtering elementor meta...
+[24/Sep/2020:23:12:22] (S): Filtered elementor meta.
+[24/Sep/2020:23:12:22] (S): Page Contact already exists.
+[24/Sep/2020:23:12:22] (P): Filtering elementor meta...
+[24/Sep/2020:23:12:22] (S): Filtered elementor meta.
+[24/Sep/2020:23:12:22] (S): Page Portfolio single already exists.
+[24/Sep/2020:23:12:22] (P): Filtering elementor meta...
+[24/Sep/2020:23:12:22] (S): Filtered elementor meta.
+[24/Sep/2020:23:12:23] (P): Processing single menu item ' '...
+[24/Sep/2020:23:12:23] (S): Processed single menu item.
+[24/Sep/2020:23:12:23] (P): Processing single menu item ' '...
+[24/Sep/2020:23:12:23] (S): Processed single menu item.
+[24/Sep/2020:23:12:23] (S): Processed posts.
+[24/Sep/2020:23:12:23] (P): Processing single menu item ' '...
+[24/Sep/2020:23:12:23] (S): Processed single menu item.
+[24/Sep/2020:23:12:23] (P): Processing single menu item ' '...
+[24/Sep/2020:23:12:23] (S): Processed single menu item.
+[24/Sep/2020:23:12:23] (P): Processing single menu item ' '...
+[24/Sep/2020:23:12:23] (S): Processed single menu item.
+[24/Sep/2020:23:12:23] (P): Processing single menu item ' '...
+[24/Sep/2020:23:12:23] (S): Processed single menu item.
+[24/Sep/2020:23:12:23] (P): Cleaning up import with id ...
+[24/Sep/2020:23:12:23] (P): Done cleanup. Flushing cache...
+[24/Sep/2020:23:12:23] (P): Flushed cache. Removing temporary data..
+[24/Sep/2020:23:12:23] (S): Done importing
+[24/Sep/2020:23:12:23] (P): Busting elementor cache
+[24/Sep/2020:23:12:23] (S): Front page set up with id: 5.
